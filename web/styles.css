@@ -57,3 +57,9 @@ img {
 	padding: 10px 25px;
 	display: inline-block;
 }
+
+#restaurant{
+	background-color: red;
+	color: black;
+	padding: 15px 30px;
+}
