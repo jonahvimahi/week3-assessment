@@ -6,7 +6,7 @@ function handleSubmit(evt) {
 	evt.preventDefault();
 	
 	alert('Thank you! Your form has been submitted')
-
+	
 }
 
 function duckyAlert(evt){
@@ -20,3 +20,5 @@ let form = document.querySelector('form#contact');
 
 form.addEventListener('submit', handleSubmit);
 ducky.addEventListener('mouseover', duckyAlert)
+
+
